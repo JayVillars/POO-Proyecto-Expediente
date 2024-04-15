@@ -1,8 +1,7 @@
 package Principal;
 
 import java.util.LinkedList;
-}
-//hola
+
 
 public class Denunciado {
 	
